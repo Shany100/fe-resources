@@ -15,4 +15,4 @@
 - [Browsersync - 浏览器同步](http://www.browsersync.io/)
 - [开发工具介绍 - Google](https://developers.google.com/web/fundamentals/tools/)
 - [移动端调试工具 debuggap](http://www.debuggap.com/)
-- [移动端调试工具 weinre]
+- [移动端调试工具 weinre](http://people.apache.org/~pmuellr/weinre/docs/latest/)
