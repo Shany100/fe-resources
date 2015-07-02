@@ -1,5 +1,5 @@
 # fe-resources
-## 前端开发知识
+## 前端资源
 
 ### 设备信息资源
  - [Device Metrics 设备规格 - Google](http://www.google.com/design/tool/devices/)
