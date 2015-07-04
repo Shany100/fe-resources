@@ -29,3 +29,7 @@
 
 #### 网站设计
 - [网站设计的原则 - Google](https://developers.google.com/web/fundamentals/principles/)
+
+#### 大牛们的博文地址
+-  [FEX](http://fex.baidu.com/)
+-  [AlloyTeam](http://alloyteam.github.io/)
