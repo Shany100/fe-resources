@@ -25,6 +25,7 @@
 
 #### 前端测试工具
 - [PhantomJS](http://phantomjs.org/)
+- [前端性能监控学习资料整理](https://www.zybuluo.com/zhangtao/note/7440)
 
 #### 网站设计
 - [网站设计的原则 - Google](https://developers.google.com/web/fundamentals/principles/)
