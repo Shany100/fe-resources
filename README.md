@@ -23,5 +23,8 @@
 - Gulp
 - Webpack
 
+#### 前端测试工具
+- [PhantomJS](http://phantomjs.org/)
+
 #### 网站设计
 - [网站设计的原则 - Google](https://developers.google.com/web/fundamentals/principles/)
