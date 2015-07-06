@@ -3,6 +3,7 @@
 
 ### JavaScript
  - [标准参考教程（alpha） - 阮一峰](http://javascript.ruanyifeng.com/)
+ - [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/promise)
  - [ECMAScript 5.1 中文版](https://www.w3.org/html/ig/zh/wiki/ES5/builtins)
  - [浏览器对 ECMAScript 各个版本的支持情况](http://kangax.github.io/compat-table/es5/)
 
