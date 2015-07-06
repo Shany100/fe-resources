@@ -4,7 +4,7 @@
 ### JavaScript
  - [标准参考教程（alpha） - 阮一峰](http://javascript.ruanyifeng.com/)
  - [ECMAScript 5.1 中文版](https://www.w3.org/html/ig/zh/wiki/ES5/builtins)
- - [ECMAScript 个版本的支持情况](http://kangax.github.io/compat-table/es5/)
+ - [浏览器对 ECMAScript 各个版本的支持情况](http://kangax.github.io/compat-table/es5/)
 
 ### 设备信息资源
  - [Device Metrics 设备规格 - Google](http://www.google.com/design/tool/devices/)
