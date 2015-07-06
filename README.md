@@ -1,6 +1,9 @@
 # fe-resources
 ## 前端资源
 
+### JavaScript
+ - [标准参考教程（alpha） - 阮一峰](http://javascript.ruanyifeng.com/)
+
 ### 设备信息资源
  - [Device Metrics 设备规格 - Google](http://www.google.com/design/tool/devices/)
 
