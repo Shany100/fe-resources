@@ -2,6 +2,7 @@
 ## 前端资源
 
 ### JavaScript
+ - [JS: The Right Way (JS最佳实践集)](http://jstherightway.org/)
  - [标准参考教程（alpha） - 阮一峰](http://javascript.ruanyifeng.com/)
  - [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/promise)
  - [ECMAScript 5.1 中文版](https://www.w3.org/html/ig/zh/wiki/ES5/builtins)
