@@ -20,6 +20,7 @@
 
 ### Node.js 相关
 - [how-i-build-nodejs-applications](http://blog.ragingflame.co.za/2015/4/1/how-i-build-nodejs-applications)
+- [Debug Node.js code with Google Chrome Developer Tools (Node.js 调试工具)](https://github.com/s-a/iron-node)
 
 ### 工具
 - [Browsersync - 浏览器同步](http://www.browsersync.io/)
