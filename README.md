@@ -39,6 +39,7 @@
 - [PhantomJS](http://phantomjs.org/)
 - [网页性能测试 - 在线](http://www.webpagetest.org/)
 - [前端性能监控学习资料整理](https://www.zybuluo.com/zhangtao/note/7440)
+- [fex.baidu 整理的前端测试](http://fex.baidu.com/blog/2015/07/front-end-test/)
 
 #### 网站设计
 - [网站设计的原则 - Google](https://developers.google.com/web/fundamentals/principles/)
