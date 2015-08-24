@@ -13,8 +13,10 @@
 
 ### 设备信息资源
  - [Device Metrics 设备规格 - Google](http://www.google.com/design/tool/devices/)
+ 
 ### 移动相关
  - [移动端高清、多屏适配方案](http://div.io/topic/1092)
+ 
 ### 前端性能优化好文
 - [页面滚动性能](http://www.html5rocks.com/zh/tutorials/speed/scrolling/) / [中文翻译](http://web.jobbole.com/82195/)
 - [优化性能 - Google](https://developers.google.com/web/fundamentals/performance/)
