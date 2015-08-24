@@ -11,8 +11,10 @@
 ### CSS
  - [CSS Triggers 性能相关](http://csstriggers.com/)
 
-### 设备信息资源
+### 设备数据
  - [Device Metrics 设备规格 - Google](http://www.google.com/design/tool/devices/)
+ - [友盟指数](http://www.umindex.com/)
+ - [百度统计流量研究院](http://tongji.baidu.com/data/browser)
  
 ### 移动相关
  - [移动端高清、多屏适配方案](http://div.io/topic/1092)
