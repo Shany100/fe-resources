@@ -59,6 +59,9 @@
 #### Markdown 相关
 - [Markdown 语法](https://help.github.com/articles/markdown-basics/)
 
+#### 在线书籍
+- [JavaScript 权威指南 第 6 版](http://sysdat.qiniudn.com/PDF/show/index.html?/%0Ciles/&data/Js6)
+
 #### 大牛们的博文地址
 -  [FEX](http://fex.baidu.com/)
 -  [AlloyTeam](http://alloyteam.github.io/)
