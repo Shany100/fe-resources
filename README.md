@@ -15,11 +15,11 @@
  - [Device Metrics 设备规格 - Google](http://www.google.com/design/tool/devices/)
  - [友盟指数](http://www.umindex.com/)
  - [百度统计流量研究院](http://tongji.baidu.com/data/browser)
- 
+
 ### 移动相关
  - [移动端高清、多屏适配方案](http://div.io/topic/1092)
  - [移动端自适应方案(大搜车)](http://f2e.souche.com/blog/yi-dong-duan-zi-gua-ying-fang-an/)
- 
+
 ### 前端性能优化好文
 - [页面滚动性能](http://www.html5rocks.com/zh/tutorials/speed/scrolling/) / [中文翻译](http://web.jobbole.com/82195/)
 - [优化性能 - Google](https://developers.google.com/web/fundamentals/performance/)
@@ -34,6 +34,9 @@
 - [移动端调试工具 debuggap](http://www.debuggap.com/)
 - [移动端调试工具 weinre](http://people.apache.org/~pmuellr/weinre/docs/latest/)
 - [JavaScript 编译器 Babel](https://babeljs.io/)
+
+- git
+  - 教程 [progit](http://iissnan.com/progit/)
 
 #### 构建工具
 - FIS
