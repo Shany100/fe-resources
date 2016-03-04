@@ -34,6 +34,7 @@
 - [移动端调试工具 debuggap](http://www.debuggap.com/)
 - [移动端调试工具 weinre](http://people.apache.org/~pmuellr/weinre/docs/latest/)
 - [JavaScript 编译器 Babel](https://babeljs.io/)
+- [sinopia - NPM 私服搭建框架](https://github.com/rlidwka/sinopia)
 
 - git
   - 教程 [progit](http://iissnan.com/progit/)
@@ -72,7 +73,7 @@
 
 #### 酷站
 - [codedoodl](http://codedoodl.es/)
-
+- [run your code online](http://code.runnable.com/)
 #### 大牛们的博文地址
 -  [FEX](http://fex.baidu.com/)
 -  [AlloyTeam](http://alloyteam.github.io/)
