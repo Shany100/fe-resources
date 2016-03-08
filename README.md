@@ -43,7 +43,9 @@
 * 正则
   - [regex expressions 101](https://regex101.com/)
   - [Regex Cross­word](https://regexcrossword.com/)
-  
+
+- [代码执行图示](http://pythontutor.com/javascript.html)
+
 #### 构建工具
 - FIS
 - Grunt
