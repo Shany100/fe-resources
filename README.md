@@ -84,6 +84,9 @@
 
 #### UI 框架
 
+#### 类库
+- [Modernizr](https://modernizr.com/)
+- [Feature.js](http://featurejs.com/)
 
 #### 大牛们的博文地址
 -  [FEX](http://fex.baidu.com/)
