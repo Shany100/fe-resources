@@ -82,6 +82,14 @@
 - [codedoodl](http://codedoodl.es/)
 - [run your code online](http://code.runnable.com/)
 
+### 学习
+- [Codecademy](https://www.codecademy.com)
+- [Codepen](http://codepen.io/)
+
+### 免费服务提供商
+- [Github Pages](https://pages.github.com)
+- [Heroku](heroku.com)
+
 #### UI 框架
 
 #### 类库
