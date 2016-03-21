@@ -46,6 +46,16 @@
 
 - [代码执行图示](http://pythontutor.com/javascript.html)
 
+- [adobe 取色工具](https://color.adobe.com/)
+
+* 集成工具
+  - [macaca 一套完整的自动化测试解决方案](https://github.com/alibaba/macaca/blob/master/README.zh.md)
+  - [Reliable 开源项目自动化集成平台](https://github.com/reliablejs)
+  - [基于 Node.js 的自动化持续集成](https://cnodejs.org/topic/56e8d829cf7763a6045c4af8)
+
+- [notepad 在线文本](http://notepad.cc/) 
+
+
 #### 构建工具
 - FIS
 - Grunt
