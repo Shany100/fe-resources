@@ -96,6 +96,10 @@
 - [Codecademy](https://www.codecademy.com)
 - [Codepen](http://codepen.io/)
 
+### 数据结构与算法
+- [JS 排序算法](https://github.com/benoitvallon/computer-science-in-javascript/tree/master/sorting-algorithms-in-javascript)
+- [JS 数据结构](https://github.com/benoitvallon/computer-science-in-javascript/tree/master/data-structures-in-javascript)
+
 ### 免费服务提供商
 - [Github Pages](https://pages.github.com)
 - [Heroku](heroku.com)
