@@ -67,6 +67,7 @@
 - [网页性能测试 - 在线](http://www.webpagetest.org/)
 - [前端性能监控学习资料整理](https://www.zybuluo.com/zhangtao/note/7440)
 - [fex.baidu 整理的前端测试](http://fex.baidu.com/blog/2015/07/front-end-test/)
+- [如何进行前端自动化测试？ by fouber](https://github.com/fouber/blog/issues/7)
 
 #### Chrome 插件
 - [ReRes - Change the response of the request.](https://github.com/hanan198501/ReRes)
@@ -91,6 +92,7 @@
 
 #### 在线书籍
 - [JavaScript 权威指南 第 6 版](http://sysdat.qiniudn.com/PDF/show/index.html?/%0Ciles/&data/Js6)
+- [计算机专业书籍 pdf](https://github.com/onestraw/ebook)
 
 #### 酷站
 - [codedoodl](http://codedoodl.es/)
@@ -116,6 +118,11 @@
 #### 类库
 - [Modernizr](https://modernizr.com/)
 - [Feature.js](http://featurejs.com/)
+
+#### 前端知识汇总
+- [前端涉及的所有知识体系 by AutumnsWind](https://github.com/AutumnsWind/Front-end-tutorial)
+- [前端技能汇总  by JacksonTian](https://github.com/JacksonTian/fks)
+- [2015-2016前端知识体系 by ouvens](https://github.com/ouvens/frontend-system-map)
 
 #### 大牛们的博文地址
 -  [FEX](http://fex.baidu.com/)
