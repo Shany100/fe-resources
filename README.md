@@ -105,6 +105,7 @@
 ### 数据结构与算法
 - [JS 排序算法](https://github.com/benoitvallon/computer-science-in-javascript/tree/master/sorting-algorithms-in-javascript)
 - [JS 数据结构](https://github.com/benoitvallon/computer-science-in-javascript/tree/master/data-structures-in-javascript)
+- [VisuAlgo：数据结构和算法动态可视化  python object](http://zh.visualgo.net/)
 
 ### 数据分析
 - [Google Analytics (js)](https://developers.google.com/analytics/devguides/collection/analyticsjs/) 文档比较全.
