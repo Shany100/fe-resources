@@ -134,7 +134,7 @@
 - [前端技能汇总](https://github.com/JacksonTian/fks)
 - [2015-2016前端知识体系](https://github.com/ouvens/frontend-system-map)
 - [阿里无线前端“架构”](https://camo.githubusercontent.com/3f9c3d51b6afe0784ca3b664ca346f78196d77ad/687474703a2f2f696d67322e746263646e2e636e2f4c312f3436312f312f37636164373432316231363761613436323462356666626233386230613435656535643130643632)
-[more](https://github.com/amfe/article/issues/3)
+[ - more](https://github.com/amfe/article/issues/3)
 
 #### 大牛们的博文地址
 -  [FEX](http://fex.baidu.com/)
