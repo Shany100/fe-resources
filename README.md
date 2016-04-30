@@ -100,6 +100,7 @@
 - [JavaScript 权威指南 第 6 版](http://sysdat.qiniudn.com/PDF/show/index.html?/%0Ciles/&data/Js6)
 - [计算机专业书籍 pdf](https://github.com/onestraw/ebook)
 - [free-programming-books](https://github.com/vhf/free-programming-books)
+- [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer/)  
 
 #### 酷站
 - [codedoodl](http://codedoodl.es/)
