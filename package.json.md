@@ -16,7 +16,9 @@
  - 名称会是URL、命令行、文件夹命名尾部的一部分，因此名称不能包含不安全的 URL 字符。
 
 
- 一些提示：
+
+
+一些提示：
  - 不能与 Node 核心包同名。
  - 不要把"js"和"node"放人名称里。一旦用了 package.json 就默认为 js 相关的文件或项目了，可以通过声明 "engines" 字段声明项目使用的引擎。
  - 名称可能作为```require()```的参数使用，所以尽量简短、语义化。
@@ -26,3 +28,11 @@
 
 #### version
 在 package.json 中最重要的字段就是 name 和 version。那些实际需要的，如果没有它们可能你的包安装不了。name 和 version 一起组成一个唯一标识。如果改动了包的内容应该同时更改版本号。
+
+version 的值必须可以被[node-semver](https://github.com/npm/node-semver)所解析。
+
+#### description
+它的值是一个字符串，填入后。更容易被用户发现，还有通过 ``` $ npm search ``` 列出来。
+
+#### keywords
+它的值是一个字符串数组，填入后。更容易被用户发现，还有通过 ``` $ npm search ``` 列出来。
