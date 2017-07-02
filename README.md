@@ -58,6 +58,8 @@
   - [基于 Node.js 的自动化持续集成](https://cnodejs.org/topic/56e8d829cf7763a6045c4af8)
 
 - [notepad 在线文本](http://notepad.cc/) 
+* 编辑工具
+    - [Virsual Studio Code](https://code.visualstudio.com/)
 
 
 #### 构建工具
